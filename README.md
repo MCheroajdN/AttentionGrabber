@@ -20,7 +20,7 @@ With the resources available and studies from:
 ## Status
 Project is completed as required.
 
-GitHub page:  https://mcheroajdn.github.io/AddThoughtForm/
+GitHub page:  https://mcheroajdn.github.io/AttentionGrabber/
 
 ## Author/Contact
 * M. Christopher
